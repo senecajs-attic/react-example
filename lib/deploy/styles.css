@@ -1,0 +1,242 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'Raleway';
+  letter-spacing: .1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard {
+  bottom: 4rem;
+  left: 4.5rem;
+  overflow: auto;
+  position: absolute;
+  right: 0;
+  top: 4.5rem;
+}
+
+.dashboard .box-header-icon {
+  background-color: #2980B9;
+  height: 4rem;
+  width: 4rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard .box-header-titlebar {
+  background-color: #2C3E50;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+  margin-left: 4.5rem;
+}
+
+.dashboard .box-header-titlebar span {
+  height: 4rem;
+  color: white;
+  display: inline-block;
+  font-size: 1.2rem;
+  line-height: 4rem;
+  margin: 0;
+  padding: 0;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.user {
+  bottom: 4rem;
+  left: 4.5rem;
+  overflow: auto;
+  position: absolute;
+  right: 0;
+  top: 4.5rem;
+}
+
+.user .box-header-icon {
+  background-color: #2980B9;
+  height: 4rem;
+  width: 4rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.user .box-header-titlebar {
+  background-color: #2C3E50;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+  margin-left: 4.5rem;
+}
+
+.user .box-header-titlebar span {
+  height: 4rem;
+  color: white;
+  display: inline-block;
+  font-size: 1.2rem;
+  line-height: 4rem;
+  margin: 0;
+  padding: 0;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.login {
+  bottom: 4rem;
+  left: 4.5rem;
+  overflow: auto;
+  position: absolute;
+  padding: 2rem;
+  right: 0;
+  top: 4rem;
+}
+
+.login-form {
+  font-size: 1.8rem;
+  width: 40rem;
+  margin: 0 auto;
+  margin-top: 20rem;
+  border: 0;
+}
+
+.login-form .box-header {
+  width: 100%;
+  height: 4rem;
+  font-size: 1.8rem;
+  margin: 0 0 .5rem 0;
+  padding: 0;
+  line-height: 4rem;
+  color: white;
+}
+
+.login-form .box-header-icon {
+  background-color: #2980B9;
+  height: 4rem;
+  width: 4rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.login-form .box-header-titlebar {
+  background-color: #2C3E50;
+  height: 4rem;
+  width: 35.5rem;
+  font-size: 1.4rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+  margin-left: 0.5rem;
+}
+
+.login-form .box-header-titlebar span {
+  height: 4rem;
+  display: inline-block;
+  line-height: 4rem;
+  margin: 0;
+  padding: 0;
+  margin-left: 0.5rem;
+}
+
+.login-form fieldset {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+.login-form input {
+  font-size: 2rem;
+  width: 39.1rem;
+  margin: 0;
+  padding: .25rem;
+  margin-bottom: .5rem;
+}
+
+.login-form button {
+  font-size: 2rem;
+  width: 20rem;
+  height: 4rem;
+  background-color: #2980B9;
+  color: white;
+  float: right;
+  padding: 0;
+  border: 0;
+}
+
+.header {
+  position: absolute;
+  height: 4rem;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.header .box-header-icon {
+  background-color: #2980B9;
+  height: 4rem;
+  width: 4rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.header .box-header-titlebar {
+  background-color: #2C3E50;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+  margin-left: 4.5rem;
+}
+
+.header .box-header-titlebar span {
+  color: white;
+  height: 4rem;
+  display: inline-block;
+  line-height: 4rem;
+  font-size: 1.4rem;
+  margin: 0;
+  padding: 0;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.footer {
+  position: absolute;
+  height: 4rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.footer .box-header-icon {
+  background-color: #2980B9;
+  height: 4rem;
+  width: 4rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.footer .box-header-titlebar {
+  background-color: #2C3E50;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+  margin-left: 4.5rem;
+}
+
+.footer .box-header-titlebar span {
+  height: 4rem;
+  color: white;
+  display: inline-block;
+  font-size: 1.2rem;
+  line-height: 4rem;
+  margin: 0;
+  padding: 0;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+}

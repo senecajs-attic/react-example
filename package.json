@@ -1,0 +1,24 @@
+{
+  "name": "seneca-react-example",
+  "private": "true",
+  "main": "./lib/deploy/app.js",
+  "scripts": {
+    "build": "webpack",
+    "prestart": "npm run build",
+    "start": "node ./lib/server.js"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "serve": "^1.4.0",
+    "webpack": "^1.5.3"
+  },
+  "dependencies": {
+    "chairo": "^1.1.0",
+    "hapi": "^11.1.0",
+    "inert": "^3.2.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "react-router": "^1.0.0",
+    "varo": "^0.1.3"
+  }
+}
