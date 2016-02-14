@@ -18,6 +18,7 @@
   "dependencies": {
     "chairo": "^1.1.0",
     "hapi": "^11.1.0",
+    "history": "^1.17.0",
     "inert": "^3.2.0",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
